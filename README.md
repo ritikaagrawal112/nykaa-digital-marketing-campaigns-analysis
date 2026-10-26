@@ -59,6 +59,7 @@ The campaign data was cleaned and analyzed using Excel. Pivot Tables, Excel form
 Nykaa-Digital-Marketing-Campaign-Analysis
 │
 ├── Nykaa_Digital_Marketing_Analysis.xlsx
+├── Dashboard.png
 └── README.md
 ```
 
